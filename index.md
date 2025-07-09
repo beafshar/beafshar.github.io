@@ -70,14 +70,6 @@ See all: [Google Scholar](https://scholar.google.ca/citations?user=1a4pNfgAAAAJ&
 
 ---
 
-### 📸 Photo Placeholder
-
-You can add your profile photo here:  
-📁 `assets/img/profile.jpg`  
-If you want to add more images (e.g., project screenshots), create more in the same folder.
-
----
-
 ### 📬 Contact
 
 - 📧 [baharafshar2079@gmail.com](mailto:baharafshar2079@gmail.com)  
