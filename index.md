@@ -11,6 +11,20 @@ Over the past year, I’ve developed frameworks such as **X-ITERADE** and **ALIS
 Whether you're a fellow researcher, a company working on real-world AI problems, or just curious about my work, feel free to explore and connect!
 
 ---
+### 🎓 Education
+
+**M.Sc. in Computer Science – AI Applied Concentration**  
+*University of Ottawa, Canada (2023 – 2025)*  
+GPA: A+  
+- MITACS researcher with [H3M Analytics Inc.](https://h3m.io/home), where I developed advanced fraud detection frameworks (X-ITERADE, ALISA) and contributed to a submitted patent.
+- Supervised by [Dr. Paula Branco](https://paobranco.github.io/), with a focus on explainable AI, active learning, and data-efficient fraud detection.
+
+**B.Sc. in Computer Engineering**  
+*University of Tehran, Iran (2018 – 2023)*  
+GPA: A+  
+Graduated from the top-ranked engineering university in Iran with strong foundations in algorithms, systems, and machine learning. Took part in research and teaching across multiple technical courses.
+
+---
 
 ### 📰 Publications
 
@@ -32,20 +46,7 @@ Whether you're a fellow researcher, a company working on real-world AI problems,
 
 ---
 
-### 🎓 Education
 
-**M.Sc. in Computer Science – AI Applied Concentration**  
-*University of Ottawa, Canada (2023 – 2025)*  
-GPA: A+  
-- MITACS researcher with [H3M Analytics Inc.](https://h3m.io/home), where I developed advanced fraud detection frameworks (X-ITERADE, ALISA) and contributed to a submitted patent.
-- Supervised by [Dr. Paula Branco](https://paobranco.github.io/), with a focus on explainable AI, active learning, and data-efficient fraud detection.
-
-**B.Sc. in Computer Engineering**  
-*University of Tehran, Iran (2018 – 2023)*  
-GPA: A+  
-Graduated from the top-ranked engineering university in Iran with strong foundations in algorithms, systems, and machine learning. Took part in research and teaching across multiple technical courses.
-
----
 ### 📄 Resume
 
 - 📄 [View Online](resume.html)
