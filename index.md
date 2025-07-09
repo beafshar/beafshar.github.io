@@ -14,7 +14,7 @@ Whether you're a fellow researcher, a company working on real-world AI problems,
 
 ### 📰 Publications
 
-- [ITERADE – Iterative Anomaly Detection Ensemble for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-031-78980-9_8) – *Discovery Science*
+- [ITERADE – Iterative Anomaly Detection Ensemble for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-031-78980-9_8) – *Discovery Science 2024*
 - [Is Expert-Labeled Data Worth the Cost?](https://link.springer.com/chapter/10.1007/978-3-031-87496-3_12) – *FPS 2024*
 - [To Label or to Pseudo Label?](https://caiac.pubpub.org/pub/r5yzx1s1) – *Canadian AI 2024*
 
@@ -24,9 +24,9 @@ Whether you're a fellow researcher, a company working on real-world AI problems,
 
 ### 🛠️ Projects
 
-- **[PriceFinder (C++)](https://github.com/beafshar/pricefinder)** — Parallel C++ program to find lowest prices across shops  
-- **[PhonePriceClassifier (C++)](https://github.com/beafshar/phone-price-classifier)** — Classifies phone prices using multithreaded design  
-- **[Semi-Supervised Bank Marketing (Python)](https://github.com/beafshar/semi-supervised-bank-marketing)** — Boosted accuracy from 76% to 88%  
+- **[PriceFinder (C++)](https://github.com/beafshar/Multiprocess-Pipeline)** — Parallel C++ program to find lowest prices across shops  
+- **[PhonePriceClassifier (C++)](https://github.com/beafshar/Parallel-Programming)** — Classifies phone prices using multithreaded design  
+- **[Semi-Supervised Bank Marketing (Python)](https://github.com/beafshar/SSL_Comparison)** — Boosted accuracy from 76% to 88%  
 - **[IMDB Clone (Full Stack)](https://github.com/beafshar/imdb-clone)** — React + Spring Boot website, Dockerized  
 - **[COVID X-Ray Classifier (DL)](https://github.com/beafshar/covid-xray)** — CNN model for chest X-ray classification
 
