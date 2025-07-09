@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### About Me 
+### 🌟 About Me
 
 I'm Bahar Emami Afshar, a machine learning engineer and researcher passionate about building intelligent, explainable, and efficient AI systems. My most recent work focuses on fraud detection in financial systems, explainable AI (XAI), anomaly detection, and data-efficient learning techniques like active and semi-supervised learning.
 
