@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Welcome to my website!
+### About Me 
 
-I'm Bahar Emami Afshar, a machine learning engineer and researcher passionate about building intelligent, explainable, and efficient AI systems. My most recent work focuses on fraud detection in financial systems, explainable AI (XAI), and data-efficient learning techniques like active and semi-supervised learning.
+I'm Bahar Emami Afshar, a machine learning engineer and researcher passionate about building intelligent, explainable, and efficient AI systems. My most recent work focuses on fraud detection in financial systems, explainable AI (XAI), anomaly detection, and data-efficient learning techniques like active and semi-supervised learning.
 
 Over the past year, I’ve developed frameworks such as **X-ITERADE** and **ALISA**, which have been published in international conferences and contributed to a patent in collaboration with H3M Analytics Inc. I enjoy designing practical AI solutions that make a real-world impact — especially in high-stakes, low-label environments.
 
@@ -32,6 +32,20 @@ Whether you're a fellow researcher, a company working on real-world AI problems,
 
 ---
 
+### 🎓 Education
+
+**M.Sc. in Computer Science – AI Applied Concentration**  
+*University of Ottawa, Canada (2023 – 2025)*  
+GPA: A+  
+- MITACS researcher with [H3M Analytics Inc.](https://h3m.io/home), where I developed advanced fraud detection frameworks (X-ITERADE, ALISA) and contributed to a submitted patent.
+- Supervised by [Dr. Paula Branco](https://paobranco.github.io/), with a focus on explainable AI, active learning, and data-efficient fraud detection.
+
+**B.Sc. in Computer Engineering**  
+*University of Tehran, Iran (2018 – 2023)*  
+GPA: A+  
+Graduated from the top-ranked engineering university in Iran with strong foundations in algorithms, systems, and machine learning. Took part in research and teaching across multiple technical courses.
+
+---
 ### 📄 Resume
 
 - 📄 [View Online](resume.html)
