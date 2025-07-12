@@ -41,7 +41,7 @@ Graduated from the top-ranked engineering university in Iran with strong foundat
 - **[PriceFinder (C++)](https://github.com/beafshar/Multiprocess-Pipeline)** — Parallel C++ program to find lowest prices across shops  
 - **[PhonePriceClassifier (C++)](https://github.com/beafshar/Parallel-Programming)** — Classifies phone prices using multithreaded design  
 - **[Semi-Supervised Bank Marketing (Python)](https://github.com/beafshar/SSL_Comparison)** — Boosted accuracy from 76% to 88%  
-- **[IMDB Clone (Full Stack)](https://github.com/beafshar/imdb-clone)** — React + Spring Boot website, Dockerized  
+- **[IMDB Clone (Full Stack)](https://github.com/beafshar/IEMDB)** — React + Spring Boot website, Dockerized  
 - **[COVID X-Ray Classifier (DL)](https://github.com/beafshar/covid-xray)** — CNN model for chest X-ray classification
 
 ---
