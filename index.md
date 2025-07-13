@@ -21,7 +21,7 @@ GPA: A+
 
 **B.Sc. in Computer Engineering**  
 *University of Tehran, Iran (2018 – 2023)*  
-GPA: A+  
+Last two years GPA: A+  
 Graduated from the top-ranked engineering university in Iran with strong foundations in algorithms, systems, and machine learning. Took part in research and teaching across multiple technical courses.
 
 ---
@@ -45,7 +45,8 @@ Graduated from the top-ranked engineering university in Iran with strong foundat
 - **[IMDB Clone (Full Stack)](https://github.com/beafshar/IEMDB)** — Full-stack React + Spring Boot application, containerized with Docker and Kubernetes, featuring user ratings, watchlists, comments, and a collaborative filtering recommender system.  
 - **[Pet Clinic Testing (Java)]()** — Applied unit, integration, and system testing with JUnit and mocking on a Java pet clinic app, practicing TDD for maintainability and thorough coverage.
 - **[PriceFinder (C++)](https://github.com/beafshar/Multiprocess-Pipeline)** — Parallel C++ program to find lowest prices across shops  
-- **[PhonePriceClassifier (C++)](https://github.com/beafshar/Parallel-Programming)** — Classifies phone prices using multithreaded design 
+- **[PhonePriceClassifier (C++)](https://github.com/beafshar/Parallel-Programming)** — Classifies phone prices using multithreaded design
+  
 ---
 
 
