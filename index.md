@@ -44,8 +44,8 @@ Graduated from the top-ranked engineering university in Iran with strong foundat
 - **[COVID Lung X-Ray Detection (Python)](https://github.com/beafshar/COVID-X-Ray-Classifier)** — Built CNN from scratch and benchmarked on PyTorch/TensorFlow, achieving 94% accuracy on COVID detection from chest X-rays with data augmentation.  
 - **[IMDB Clone (Full Stack)](https://github.com/beafshar/IEMDB)** — Full-stack React + Spring Boot application, containerized with Docker and Kubernetes, featuring user ratings, watchlists, comments, and a collaborative filtering recommender system.  
 - **[Pet Clinic Testing (Java)]()** — Applied unit, integration, and system testing with JUnit and mocking on a Java pet clinic app, practicing TDD for maintainability and thorough coverage.
-- **[PriceFinder (C++)](https://github.com/beafshar/Multiprocess-Pipeline)** — Parallel C++ program to find lowest prices across shops  
-- **[PhonePriceClassifier (C++)](https://github.com/beafshar/Parallel-Programming)** — Classifies phone prices using multithreaded design
+- **[PriceFinder (C++)](https://github.com/beafshar/Multiprocess-Pipeline)** — Parallel C++ program to find lowest prices across shops.
+- **[PhonePriceClassifier (C++)](https://github.com/beafshar/Parallel-Programming)** — Classifies phone prices using multithreaded design.
   
 ---
 
