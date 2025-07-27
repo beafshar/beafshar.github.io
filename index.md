@@ -39,7 +39,7 @@ Graduated from the top-ranked engineering university in Iran with strong foundat
 ### 🛠️ Projects
 
 - **[Semi-Supervised Bank Marketing (Python)](https://github.com/beafshar/SSL_Comparison)** — Benchmarked semi-supervised models on imbalanced marketing data using XGBoost and LightGBM, improving accuracy from 76% to 88% through confidence-based pseudo-labeling and resampling strategies.  
-- **[Online Intrusion Detection (Python)]()** — Developed a real-time intrusion detection system with online learning, achieving 87% F1-score by adapting to data drift in streaming network traffic.
+- **[Online Intrusion Detection (Python)](https://github.com/beafshar/OnlineLearningID)** — Developed a real-time intrusion detection system with online learning, achieving 87% F1-score by adapting to data drift in streaming network traffic.
 - **[Persian Twitter Sentiment Analysis (Python)](https://github.com/beafshar/Sentiment-Analysis)** — Implemented 3-class sentiment classification on Persian tweets labeled via emojis, combining FastText embeddings, TF-IDF features, and Bidirectional GRU networks. Applied class weighting and resampling to handle severe class imbalance, boosting accuracy by 10%.
 - **[COVID Lung X-Ray Detection (Python)](https://github.com/beafshar/COVID-X-Ray-Classifier)** — Built CNN from scratch and benchmarked on PyTorch/TensorFlow, achieving 94% accuracy on COVID detection from chest X-rays with data augmentation.  
 - **[IMDB Clone (Full Stack)](https://github.com/beafshar/IEMDB)** — Full-stack React + Spring Boot application, containerized with Docker and Kubernetes, featuring user ratings, watchlists, comments, and a collaborative filtering recommender system.  
